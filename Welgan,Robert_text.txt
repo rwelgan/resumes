@@ -1,0 +1,78 @@
+ROBERT L. WELGAN
+12065 SW LANEWOOD STREET
+PORTLAND, OR  97225
+503.208.6144		
+RLWELGAN@GMAIL.COM
+WWW.LINKEDIN.COM/IN/RWELGAN
+
+
+SUMMARY
+
+Results-driven Senior Software Engineering professional with extensive experience in all phases of the software development lifecycle from conception to customer delivery and support.  Effectively analyzes software system requirements, ensuring each software release meets business needs, as well as critical deadlines in deadline-driven environment.  Known for analysis, programming, and debugging capabilities, as well as knowledge of application, system, and database performance, solving system performance problems.  Recognized for utilizing various software tools to develop and perform testing and analysis, resulting in consistent record of improving processes and performance; surpassing expectations.  
+Core strengths in
+- Object-oriented Design and Programming
+- Data Model and Database Programming
+- Leading Global IT Project Teams
+- Technical Marketing Benchmarking Projects
+- Troubleshooting and Problem Solving
+- Developing Patentable Intellectual Property
+
+
+TECHNICAL SKILLS
+
+- Languages:  Java, Perl, KSH, SH, Bash, SQL, PL/SQL
+- Web Services:  SOAP, XML, WSDL, REST
+- Platforms:  AIX, HP-UX, Windows XP, Linux, OS X, VIO
+- Databases:  Oracle, IBM DB2
+- Tools:  Eclipse, Maven, Mercury Load Runner, tprof, trace, truss, kdb, vmstat, iostat, CVS
+- Additional:  SAP GUI, SAP Benchmark Kit, HMC, IBM SAN Storage, PaaS, Lawson, fdpr
+
+
+PROFESSIONAL EXPERIENCE
+
+IBM, Hillsboro, OR    2000 - 2013
+SENIOR SOFTWARE ENGINEER
+Exercised technical leadership in 2 main areas:  performance tuning applications on IBM platforms and lead developer on platform-as-a-service (PaaS) cloud system.  Utilized Java (J2EE), Maven, WSDL, SOAP, CVS, REST APIs, DB2, Oracle, Oracle PL/SQL, Data Modeling, Agile, Perl, KSH, AIX performance tools, IBM Storage Management, IBM HMC, SAP SD Benchmark, SAP GUI.
+- Enabled PaaS system to come on-line in 5 months by rapidly developing robust data model and Java database API by leading team of team of 6 developers and testers based in the US and India in collaborative environment.
+- Drove adoption of configuration management system for project by encouraging adoption of Maven through team mentoring, resulting in repeatable, automated build process, higher quality code, and setting stage for continuous builds.
+- Established repeatable release processes and performed production deployments, resulting in releases being on time, or early, with required functionality and without spike in reported bugs.
+- Installed and configured SAP instances, databases, and servers by performing SAP standard benchmark tests, resulting in characterizing and improving performance of other third-party software applications on IBM platforms using AIX and Linux performance monitoring tools.
+- Retained over $5M in revenue by correcting system performance problems from processor to application level, which resulted in achieving record-breaking benchmark performance numbers by providing usable solutions to customers.
+- Led team evaluating over 40 patents, determining if it was in IBM’s interest to file patents with US Patent and Trademark Office; encouraged employees to contribute to IBM’s intellectual property by leading patent team and hosting organization-wide education sessions, resulting in enabling other inventors to file more than 15 patents.
+- Identified as top technical talent when selected for IBM Corporate Service Corps.; consulted Liaoning Academy of Environmental Sciences (LAES) during month-long in-country engagement, resulting in improving organization personnel management and project management capabilities.
+- Served as interviewer, package reviewer, and beta tester on IBM professional certification board; mentored others seeking to become recognized within IBM for technical skills, giving back to IBM community and business acumen, resulting in improving IBM technical staff’s marketability by preparing staff for certification.
+
+
+ADDITIONAL EXPERIENCE
+
+SEQUENT COMPUTER SYSTEMS AND ELECTRONIC DATA SYSTEMS (EDS), Beaverton, OR
+ORACLE DATABASE ADMINISTRATION MANAGER
+
+UNITED STATES AIR FORCE (USAF), Various Locations
+USAF CAPTAIN, CIVILIAN DATA SYSTEMS SECTION MANAGER
+
+
+EDUCATION
+
+- MS, Computer Engineering, Air Force Institute of Technology, Dayton, OH
+- BS, Computer Science, United States Air Force Academy, Colorado Springs, CO
+
+
+CERTIFICATIONS
+
+- Open Group Master Certified IT Specialist, 2008 - Present
+- IBM Certified IT Specialist, 2008 - 2013
+
+
+PATENTS
+
+- Aggregating Data in Electronic Communications, United States Application 20130151631, filed December 9, 2011
+- Reducing Email Message Size, United States Application 20120191794, filed April 2, 2012
+
+
+PUBLICATIONS
+
+- Comparing Query Performance: MDC vs. Non-MDC Tables, DB2 Magazine, February 2003, (unavailable on-line)
+- What's Your Problem? Analyze it automatically with db2support, DB2 Magazine, March 2004, (unavailable on-line)
+- Lawson 8.0.x Software Performs Well on IBM eServer BladeCenter http://public.presalesadvisor.com/LiteratureUploads/Literature-144.pdf
+- Active Memory Expansion performance, updated 2 November 2012 http://public.dhe.ibm.com/common/ssi/ecm/en/pow03038usen/POW03038USEN.PDF
